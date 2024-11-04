@@ -97,6 +97,13 @@ Imagine a call center that receives customer service calls. The call center may 
 >The probability of multiple calls arriving in the same instant is very low,
 >The call rate remains steady over time
 Q11>>Explain what a random variable is and differentiate between discrete and continuous random variables.
+A random variable is a numerical value that represents the outcome of a random event or experiment. It is essentially a variable whose possible values are determined by the outcome of a probability experiment. Random variables are a fundamental concept in probability and statistics, allowing us to quantify and analyze randomness.
+>Types of Random Variables
+There are two main types of random variables: discrete and continuous.
+1. Discrete Random Variables
+A discrete random variable takes on a countable number of distinct values. This means it can only assume specific, separate values, often resulting from counting.
+2. Continuous Random Variables
+A continuous random variable takes on an uncountable number of values within a given interval, meaning it can assume any value in a range of values, often resulting from measurement.
 
 
 
