@@ -1,3 +1,66 @@
-1. Explain the different types of data (qualitative and quantitative) and provide examples of each. Discuss
+Q1>> Explain the different types of data (qualitative and quantitative) and provide examples of each. Discuss
 nominal, ordinal, interval, and ratio scales.
+Ans..Qualitative>>In statistics, qualitative data (also called categorical data) refers to data that describes qualities or characteristics and can be used to categorize  subjects without measuring them numerically.
+Ex..gender,color,grades
+Quantitative>>In statistics, quantitative data refers to numerical data that can be measured or counted, representing quantities or amounts.
+Ex..height,weight,speed
+Nominal>> This type categorizes data without a specific order. Examples include:
+Gender (male, female, other)
+Marital status (single, married, divorced)
+Ordinal Data>> This type categorizes data with a meaningful order, but without consistent spacing between categories. Examples include:
+Education level (high school, college, graduate)
+Interval>>In statistics, interval data is a type of quantitative data where the intervals between values are meaningful and consistent, but there is no true zero point.
+Ex..length,hieght
+Ratio>>In statistics, a ratio scale is a type of quantitative data that has all the properties of an interval scale (equal intervals between values) plus a meaningful, absolute zero point.
+Ex..hieght,time
+Q2>>   What are the measures of central tendency, and when should you use each? Discuss the mean, median,
+and mode with examples and situations where each is appropriate.
+Central tendency>>cental tendency try to find out that particular element which can represent whole data.
+1.mean>>Arithmatic mid value of data is called mean.
+Ex..data=[1,2,3,4,5]
+mean=3
+2.median>>physical mid value of data is caled median.
+Ex..data=[1,2,3,4,5,6,7]
+median=4
+3.mode>>mode is the maximum frequency of data.
+Ex..data=[1,2,2,3,6,7,8,5,9]
+mode=2
+#situation where each is appropriates>>
+3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7
+here>>
+mean=5
+median=5
+mode=5
+Q3>>  Explain the concept of dispersion. How do variance and standard deviation measure the spread of data?
+Dispresion>>In statistics, dispersion refers to the extent to which data values are spread out or scattered around the central tendency (such as the mean or median) of a data set.
+1.Range
+2.Variance
+3.standard deviation
+4.Interquartile Range (IQR)
+Q. How do variance measure the spread of data?
+Variance measures the spread of data by calculating how much each data point differs from the mean, on average. 
+Q.How do standard deviation measure the spread of data?
+Standard deviation measures the spread of data by quantifying the average distance of each data point from the mean. It is calculated as the square root of the variance, which makes it easier to interpret because it is in the same units as the original data.
+Q4>>  What is a box plot, and what can it tell you about the distribution of data?
+Box plot>>A box plot, also known as a box-and-whisker plot, is a standardized way of displaying the distribution of data based on a five-number summary.
+min,25%,50%,75%,max
+Q.what can it tell you about the distribution of data?
+A box plot provides several insights into the distribution of data at a glance. Here are the key aspects that a box plot can reveal:
+1. Central Tendency
+2. Spread of Data
+3. Range
+4. Skewness
+5. Presence of Outliers
+Q5>>Discuss the role of random sampling in making inferences about populations.
+Ans..As we know we can not measure thw whole population that is why we take sample data and we use random sampling to take sample of data.In random sampling each of the member or element of the population has equal chance of being selevted in the sample
+Q6>>Explain the concept of skewness and its types. How does skewness affect the interpretation of data?
+
+
+
+
+
+
+
+
+
 
